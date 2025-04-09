@@ -104,7 +104,7 @@ ping <DC-1-IP>
 - This creates 100 users in the `_EMPLOYEES` OU with the default password `Password1`.
 
 - To test, use RDP to connect as one of the generated users:  
-  `mydomain.com\big.sapir` with password `Password1`
+  `mydomain.com\keith.moore` with password `Password1`
 
 ---
 
