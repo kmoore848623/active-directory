@@ -25,7 +25,7 @@ This project walks through deploying an on-premises-style Active Directory envir
 ---
 
 
-## 🧩 Deployment Summary
+## 🧩 Deployment Steps
 
 ### Step 1: Create the Virtual Machines
 
